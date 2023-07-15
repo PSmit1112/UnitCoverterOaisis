@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="parameter_converter">Parameter Converter</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
+</resources>
